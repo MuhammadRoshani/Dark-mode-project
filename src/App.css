@@ -1,0 +1,12 @@
+/* light mode : */
+
+.appContainer{
+    background: #f3f4f6;
+    height: 100vh;
+}
+
+/* dark mode : overRide background */
+
+.appContainer.dark{
+    background: rgb(17, 24, 39);
+}
